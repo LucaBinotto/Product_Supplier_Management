@@ -1,4 +1,4 @@
-# Gestionale_Product_Supplier
+# Product_Supplier_Management
 
 A simple Java Web Application, that allow to create and modify data for supplier and their product on a remote postgres database.
 
